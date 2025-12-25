@@ -48,7 +48,6 @@ extract-audio-from-video/
 │
 ├── main.py              # Main application file
 ├── README.md            # Project documentation
-├── requirements.txt     # Python dependencies
 └── .gitignore           # Ignored files
 ```
 
@@ -70,11 +69,6 @@ Activate:
 - **Windows:** `venv\Scripts\activate`
 - **Linux/Mac:** `source venv/bin/activate`
 
-### 3️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## ▶️ How to Run
@@ -93,7 +87,10 @@ python main.py
 ## 📸 Screenshots (Optional)
 
 > You may add screenshots here for better presentation.
-<img width="481" height="377" alt="image" src="https://github.com/user-attachments/assets/d3ce306f-854d-434b-914d-26d92130d72f" />
+<img width="557" height="445" alt="image" src="https://github.com/user-attachments/assets/b681a9cd-4441-49b6-9456-c07891a91490" />
+
+<img width="557" height="445" alt="image" src="https://github.com/user-attachments/assets/87e5aa72-8b93-4b8d-a7bf-bebea3851a0c" />
+
 
 
 
