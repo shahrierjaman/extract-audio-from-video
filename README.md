@@ -84,7 +84,7 @@ python main.py
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 > You may add screenshots here for better presentation.
 <img width="557" height="445" alt="image" src="https://github.com/user-attachments/assets/b681a9cd-4441-49b6-9456-c07891a91490" />
